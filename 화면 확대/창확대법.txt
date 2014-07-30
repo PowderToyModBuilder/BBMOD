@@ -1,5 +1,0 @@
-Config.h 에서
-#define XRES	700
-#define YRES	700
-수정
-(XRES 가로,YRES 세로)
