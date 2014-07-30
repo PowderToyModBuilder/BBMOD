@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\haha\desktop\모드\한글화\src\cajun\</FILEPATH><FILENAME>reader.cpp</FILENAME><LINE>278</LINE><COLUMN>19</COLUMN></SFA><DEFECTCODE>6330</DEFECTCODE><DESCRIPTION>'char'이(가) _Param_(1)로 전달되었습니다. 'unsigned char'에 대한 호출에는 'isspace'이(가) 필요합니다.</DESCRIPTION><FUNCTION>json::Reader::EatWhiteSpace</FUNCTION><DECORATED>?EatWhiteSpace@Reader@json@@AAEXAAVInputStream@12@@Z</DECORATED><FUNCLINE>275</FUNCLINE><PATH/></DEFECT></DEFECTS>

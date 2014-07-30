@@ -1,0 +1,11 @@
+﻿빌드 시작: 2014-07-30 오후 12:49:12
+     1>2 노드의 "C:\Users\haha\Desktop\모드\한글화\tpt++.vcxproj" 프로젝트(ClCompile 대상)입니다.
+       프로젝트 파일에 ToolsVersion="12.0"이(가) 들어 있습니다. 이 도구 집합을 알 수 없거나 누락되었습니다. 이 도구 집합에 적합한 .NET Framework를 설치하면 이 문제를 해결할 수 있습니다. 프로젝트에 ToolsVersion="4.0"이 들어 있는 것으로 간주합니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Zi /nologo /W0 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D WIN /D X86 /D X86_SSE2 /D USE_SDL /D STABLE /D GRAVFFT /D LUACONSOLE /D _SCL_SECURE_NO_WARNINGS /Gm- /EHsc /MD /GS /fp:fast /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\simulation\elements\ACID.cpp
+         ACID.cpp
+     1>"C:\Users\haha\Desktop\모드\한글화\tpt++.vcxproj" 프로젝트를 빌드했습니다(ClCompile 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.39
